@@ -48,7 +48,7 @@ Clone this repo:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/AI_MOVIES.git
+git clone https: https://github.com/DinDinFreya/Movie-Lens.git 
 cd AI_MOVIES
 Open the notebook in Google Colab or Jupyter.
 
